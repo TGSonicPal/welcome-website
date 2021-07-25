@@ -1,2 +1,0 @@
-# welcome-website
-SonicPal Website
